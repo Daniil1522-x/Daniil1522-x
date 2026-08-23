@@ -1,7 +1,0 @@
-[project]
-name = "daniil1522-x"
-version = "0.1.0"
-description = "GitHub profile of Daniil1522-x — Software Engineer (AI · Backend · Web · Android · DevOps)"
-readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
